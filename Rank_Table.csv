@@ -1,0 +1,6 @@
+Country/Region,Confirmed,Date,Variation_Active_1week,Variation_Active_2weeks,Variation_Active_1day,Started declining_days,max_variation,index
+Saint Vincent and the Grenadines,1.0,2020-03-28,1.0,1.0,1.0,2 weeks ago,1.0,1
+China,81999.0,2020-03-28,0.41832283082889,0.7030682942923128,0.0724040195825818,2 weeks ago,0.7030682942923128,2
+Maldives,16.0,2020-03-28,0.4615384615384616,0.3,0.0,2 weeks ago,0.4615384615384616,3
+South Korea,9478.0,2020-03-28,0.3680312980299008,0.3972547974413646,0.030439442658092175,2 weeks ago,0.3972547974413646,4
+Bangladesh,48.0,2020-03-28,-0.4,-8.333333333333334,0.125,1 day ago,0.125,5
